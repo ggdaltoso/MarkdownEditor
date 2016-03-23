@@ -24,6 +24,8 @@
   "homepage": "https://github.com/ggdaltoso/MarkdownEditor#readme",
   "dependencies": {
     "ejs": "^2.4.1",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "redis": "^2.5.3",
+    "share": "^0.6.3"
   }
 }
