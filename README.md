@@ -8,3 +8,16 @@ An editor made using
  - [Twitter Bootstrap](http://getbootstrap.com/) - makes everything a little prettier
 
 and following the steps from [scoth.io](https://scotch.io/tutorials/building-a-real-time-markdown-viewer) without deploying to Heroku.
+
+## How to use?
+
+```
+$ git clone https://github.com/ggdaltoso/MarkdownEditor.git
+$ cd MarkdownEditor
+$ npm install
+$ node server.js
+```
+
+Navigate to http://localhost:8000 and be happy! :)
+
+*You can share your content by passing one id, like http://localhost:8000/foo
